@@ -15,7 +15,7 @@
 
 ## Deployed Links
 
-### DEMO ->  https://SDE-resources-hub-project.vercel.app/
+### DEMO ->  https://sde-resources-hub.vercel.app/
 
 
 
@@ -23,41 +23,13 @@
 
 ## 📷 Screenshot 
 
-![Screenshot 2023-07-24 210406](https://github.com/jayk-gupta/SDE-resources-project/assets/100681165/6871d84a-5378-4495-94b7-fb30af89560d)
+![alt text](image.png)
 
 
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## ✅ Getting Started
-1. Fork the project,click on create new fork.
-![s3](https://github.com/jayk-gupta/SDE-resources-project/assets/100681165/b6fdab7f-61cd-48ba-9462-9ae89c50e4c6)
-
-2. To clone the repository to your local machine, follow these steps:
-
-1. Click on the "Code" button.
-![s1](https://github.com/jayk-gupta/SDE-resources-project/assets/100681165/c6b5a565-212a-467a-a697-2106ba3911a4)
-
-2. Copy the HTTPS Link.
-![s2](https://github.com/jayk-gupta/SDE-resources-project/assets/100681165/a0193d9a-85bc-457f-9edc-d24b93ce9f9d)
-
-4. Open the terminal or command prompt on your computer.
-
-5. Navigate to the directory where you want to clone the repository.
-
-
-6. Type the command `git clone [https://github.com/<your_github_username>/SDE-resources-project.git]` (This will download the repository to your local machine)
-
-## ⬇️ Prerequites
-  - **Node JS**
-  -  **pnpm**
-
-## 👉 Running the Project Locally
-1. Open a terminal or command prompt on your computer.
-2. Navigate to the directory where the repository was cloned.
-3. Run the following command: `pnpm install` (This command installs the project dependencies).
-4. After the installation is complete, run the following command: `pnpm dev` (This command launches the project in your local browser or terminal).
 
 
 
