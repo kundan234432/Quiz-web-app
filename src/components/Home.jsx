@@ -10,7 +10,7 @@ export default function Home() {
         transition={{ duration: 0.5 }}
       >
         <h1 className="text-7xl text-[#444a4f] leading-[5rem] tracking-wider drop-shadow-xl ">
-          Web Resources Hub
+          SDE Resources Hub
         </h1>
         <h2 className="text-4xl text-[#3f454a] leading-[4rem] tracking-wider  drop-shadow-xl">
           Get Empowered <span className=" text-[]"> with </span> <br />
