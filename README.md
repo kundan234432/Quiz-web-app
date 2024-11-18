@@ -1,5 +1,6 @@
 # SDE Resource Hub 👨‍💻  
 
+![Screenshot 2024-11-07 231539](https://github.com/user-attachments/assets/94eae52b-b38b-4d3c-a05a-4eb032a6c85a)
 ## 🚀 About  
 SDE Resource Hub is a centralized platform providing high-quality resources for frontend development. It includes organized tutorials and tools for HTML, CSS, JavaScript, and React to simplify learning and enhance developer productivity.  
 
@@ -47,7 +48,7 @@ This project showcases the practical application of React.js and modern web tech
 
 ---
 
-![Screenshot 2024-11-07 231539](https://github.com/user-attachments/assets/94eae52b-b38b-4d3c-a05a-4eb032a6c85a)
+
 
 
 
