@@ -1,6 +1,6 @@
 import React,{lazy, Suspense} from "react";
 import { Route, Routes, NavLink } from "react-router-dom";
-// import Nav from './components/nav/Nav.jsx';
+//import Nav from './components/nav/Nav.jsx';
 import SideNav from "./components/nav/SideNav.jsx";
 
 const Home = lazy(() => import("./components/Home.jsx"));

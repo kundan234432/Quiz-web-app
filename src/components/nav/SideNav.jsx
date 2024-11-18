@@ -6,7 +6,7 @@ function SideNav() {
 
   return (
     <div
-      className=" flex flex-col fixed h-screen py-2 px-4 text-lg w-[15%]  gap-20 z-50  bg-gradient-to-b from-[#3f454a] to-[#1a1d20]
+      className=" flex flex-col fixed h-screen py-2 px-4 text-lg w-[15%]  gap-20 z-50  bg-gradient-to-b from-[#1A1A1D] to-[#1a1d20]
      text-[#cacaca] "
       style={{scrollbarColor: 'red'}}
     >
